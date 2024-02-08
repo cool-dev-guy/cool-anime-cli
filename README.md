@@ -1,11 +1,13 @@
 # cool-anime-cli
+`@cool-dev-guy`
+
 An anime cli that have 4 source url's.Made for linux,Would also work on windows and mac.
 
 available sources:
 - gogo-server-1
 - gogo-server-2
-- gogo-filelions-1
-- gogo-streamwish-1
+- gogo-filelions
+- gogo-streamwish
 
 These sources are hard to deploy on web so i added these as CLI programs.
 
@@ -29,3 +31,4 @@ This is made as a proof of concept,using it must be at your own risk,and this ha
 
 ## Thanks
 - Ciarands [for the `packed` extractor]
+- [AnimeDexApi](https://api.anime-dex.workers.dev/) [for scraping gogoanime site]
