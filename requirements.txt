@@ -1,0 +1,3 @@
+requests
+questionary
+cloudscraper
